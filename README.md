@@ -1,16 +1,19 @@
-# tugas1_biodata
+# Aplikasi Sederhana Biodata
 
-A new Flutter project.
+Aplikasi Biodata adalah aplikasi sederhana untuk tugas bootcamp edspert flutter 16 yang menampilkan biodata singkat saya beserta tautan ke media sosial saya. Terdapat tiga halaman yaitu Splash, Login, dan Biodata. 
 
-## Getting Started
+## Fitur
+* Tampilan halaman biodata dengan gambar sampul dan foto profil
+* Menampilkan informasi singkat tentang orang tersebut
+* Menyertakan tombol untuk mengunjungi media sosial mereka (Instagram, GitHub, LinkedIn)
 
-This project is a starting point for a Flutter application.
+## Tampilan Aplikasi
+<div align="center">
+  <img src="https://github.com/rfttra/tugas1_biodata/assets/99707014/2fe739c5-6df4-4d66-b7e2-1b290fd18593" alt="Screenshot 1" width="250" />
+  <img src="https://github.com/rfttra/tugas1_biodata/assets/99707014/664f2a4f-6543-4c17-a1a9-c0edd51069ac" alt="Screenshot 2" width="250" />
+  <img src="https://github.com/rfttra/tugas1_biodata/assets/99707014/99003dcc-7c17-4798-9f41-45434a957c35" alt="Screenshot 3" width="250" />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
